@@ -1,0 +1,48 @@
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header-lineage .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#header-lineage .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#header-lineage .mbr-article {
+  color: #fff;
+}
+#training .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#training .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#training .mbr-article {
+  color: #fff;
+}
+#header-times .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#header-times .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#header-about .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#header-about .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#header-about .mbr-article {
+  color: #fff;
+}
